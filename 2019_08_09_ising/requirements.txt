@@ -1,0 +1,5 @@
+pyquil==2.10.0
+quantum-grove==1.7.0
+numpy==1.16.1
+scipy==1.2.1
+matplotlib==3.0.2
