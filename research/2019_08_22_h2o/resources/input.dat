@@ -1,0 +1,13 @@
+set {
+   basis sto-3g
+   geom_maxiter 50
+}
+memory 4000 mb
+
+molecule h2o {
+   O
+   H 1 1.0
+   H 1 1.0 2 90
+}
+
+optimize('scf')

@@ -1,1 +1,1 @@
-# vqe-ising
+# VQE for Quantum Chemistry
